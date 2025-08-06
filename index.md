@@ -1,11 +1,11 @@
-# Escopo do Projeto: App/Site para Igreja
+# App/Site ICE Betesda
 
 ## Objetivo
-Desenvolver um aplicativo e site para a Igreja Cristã Evangélica Betesda, com foco inicial na gestão de membros e eventos, com expansão futura para funcionalidades adicionais como blog e devocional.
+Desenvolver um aplicativo e site para a Igreja Cristã Evangélica Betesda, com foco inicial na gestão de membros e eventos, com expansão futura para funcionalidades adicionais. 
 
 ---
 
-## Funcionalidades Iniciais
+## Escopo Inicial
 
 ### 1. Gestão de Membros
 - Cadastro de membros com dados pessoais (nome, telefone, endereço, etc).
@@ -19,16 +19,10 @@ Desenvolver um aplicativo e site para a Igreja Cristã Evangélica Betesda, com 
 - Inscrição ou confirmação de presença dos membros nos eventos.
 - Notificações sobre eventos futuros para os membros.
 
----
-
-## Funcionalidades Futuras (Fases seguintes)
-
 ### 3. Blog
 - Publicação de artigos e notícias da igreja.
 - Comentários e interação dos membros.
 - Categorias e tags para organização dos posts.
-
-
 ---
 
 ## Considerações Gerais
